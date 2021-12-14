@@ -2,8 +2,11 @@
 ![image](https://github.com/toreydai/serverless-analytics-workshop/blob/main/workshop_arch.png)
 
 实验步骤说明：
-### 1、	配置本地计算机，包括安装Amazon CLI，配置IAM权限等；
-### 2、	配置基础环境，包括：
+### 1、	配置本地计算机
+a)	Amazon CLI；
+<br>b)	IAM权限；
+<br>c)	Python3.6
+### 2、	配置基础环境
 a)	网络配置；
 <br>b)	IAM权限；
 <br>c)	RDS MySQL实例1台；
